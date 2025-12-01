@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vcalles@gmail.com",
+                "Name": "Victor Calles"
+            },
+            {
+                "Email": "vcalles@gmail.com",
+                "Name": "Victor Calles"
+            }
+        ],
+        "Category": "",
+        "Description": "Rain",
+        "Icon": "preferences-desktop-color",
+        "Id": "org.kde.rain",
+        "License": "GPLv3",
+        "Name": "Rain"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell"
+}
