@@ -3,13 +3,13 @@ Live wallpaper that simulates falling rain
 
 How to install it:
 
-Download it from GitHub.
+- Download it from GitHub.
 
-Unzip it and rename the folder to org.kde.autum
+- Unzip it and rename the folder to org.kde.rain
 
-Copy the folder to .local/share/plasma/wallpapers/ in your home directory.
+- Copy the folder to .local/share/plasma/wallpapers/ in your home directory.
 
-That's it.
+- That's it.
 
 ### ☕ Buy Me a Coffee!
 
